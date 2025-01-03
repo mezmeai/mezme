@@ -1,8 +1,8 @@
-from crypto_oracle_platform import CryptoOraclePlatform
+from mezme_oracle_platform import MezmeOraclePlatform
 
 class UserInterface:
     def __init__(self):
-        self.platform = CryptoOraclePlatform()
+        self.platform = MezmeOraclePlatform()
 
     def run(self):
         while True:
