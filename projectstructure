@@ -1,0 +1,4 @@
+Project Structure:
+mezme.py: Main module containing the core logic.
+federated_learning.py: Module for federated learning implementation.
+zk_proofs.py: Module for zero-knowledge proof logic.
